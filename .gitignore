@@ -1,3 +1,9 @@
-bin
-obj
+EncryptDecrypt/.vs
 .vs
+EncryptDecrypt/obj
+EncryptDecryptMobile/EncryptDecryptMobile.Android/bin
+EncryptDecryptMobile/EncryptDecryptMobile.Android/obj
+EncryptDecryptMobile/EncryptDecryptMobile/bin
+EncryptDecryptMobile/EncryptDecryptMobile.iOS/obj
+EncryptDecrypt/bin
+EncryptDecryptMobile/EncryptDecryptMobile/obj
